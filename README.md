@@ -10,7 +10,7 @@
     * Expert : 5 x 5 boxes.
 * The player can save and load games.
 * The player can undo/redo its play.
-* Please find the manual in the report.
+* Please find the manual in the **report**.
 ---
 ## Snapshots
 
