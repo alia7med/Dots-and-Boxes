@@ -1,4 +1,4 @@
-## Dots and Boxes
+# Dots and Boxes
 ![Beginning](https://github.com/alia7med/Dots-and-Boxes/blob/main/assests/Beginning.JPG)
  * The game starts with an empty grid of dots. Usually two players take turns adding a single horizontal or vertical line between two unjoined adjacent dots. A player who completes the fourth side of a 1×1 box earns one point and takes another turn. 
  * Each player tries to make boxes as many as possible.
