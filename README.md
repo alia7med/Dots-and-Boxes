@@ -8,9 +8,11 @@
 * The game has 2 mdoes of grids:
     * Beginner : 2 x 2 boxes.
     * Expert : 5 x 5 boxes.
+* The player can save and load games.
+* The player can undo/redo its play.
 * Please find the manual in the report.
 ---
-## Features Snapshots
+## Snapshots
 
 ### Start
 
@@ -23,3 +25,7 @@
 ### Expert Mode 
 
 ![Expert Mode](https://github.com/alia7med/Dots-and-Boxes/blob/main/assests/Expert%20mode.jpg)
+
+### Top 10 Scores
+
+![Scores](https://github.com/alia7med/Dots-and-Boxes/blob/main/assests/Top%2010%20Scores.jpg)
